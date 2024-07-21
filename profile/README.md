@@ -1,6 +1,6 @@
 # DNext Technology - PiA Group 
 
-![DNext Technology Banner](https://static.wixstatic.com/media/6b82e5_bcc1c732744042948e878739e972d283~mv2.png/v1/fill/w_143,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/New-PiAGroup-Black.png)
+![Dnext](https://static.wixstatic.com/media/d7e8f9_8d052338146640a991753452782232a0~mv2.png/v1/fill/w_119,h_55,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Dnext.png) ![PiA](https://static.wixstatic.com/media/6b82e5_bcc1c732744042948e878739e972d283~mv2.png/v1/fill/w_143,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/New-PiAGroup-Black.png)
 
 
 ## About Us
